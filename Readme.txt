@@ -1,4 +1,4 @@
-This is a sample nodejs script to access Mashape.  It's accessing the bitly API.
+This is a sample nodejs script to access Mashape using REST.  It's accessing the bitly API.
 
 You would need to put in a Mashape authorization header to get this to work.  For that, you need to sign up for a Mashape account at http://www.mashape.com/ 
 

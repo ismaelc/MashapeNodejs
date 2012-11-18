@@ -13,7 +13,7 @@ var options = {
   }
 };
 
-// Set up query parameters
+// Set up bitly query parameters
 var post_data = querystring.stringify({
 	'login' : 'ismaelc',
 	'longurl':'http://www.mashape.com/',
