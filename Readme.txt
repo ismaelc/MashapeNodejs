@@ -4,6 +4,6 @@ You would need to put in a Mashape authorization header to get this to work.  Fo
 
 You can get the header from the Mashape REST docs at https://www.mashape.com/docs/consume/rest
 
-(My bitly key is already there because you're lazy :P)
+Get your Bitly key - refer to the "Authentication Settings" at https://www.mashape.com/ismaelc/bitly-2 for the links to get your key.
 
 Send your questions to chris@mashape.com.  Enjoy!

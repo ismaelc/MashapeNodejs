@@ -9,7 +9,7 @@ var options = {
   method: 'POST', // Using POST instead of GET, to please post_data below
   headers: {
 		'Content-Type': 'application/json',
-		'X-Mashape-Authorization': '<GET YOUR MASHAPE AUTH HEADER here - https://www.mashape.com/docs/consume/rest>''
+		'X-Mashape-Authorization': '<GET YOUR MASHAPE KEY IN YOUR MASHAPE DASHBOARD>''
   }
 };
 
@@ -17,7 +17,7 @@ var options = {
 var post_data = querystring.stringify({
 	'login' : 'ismaelc',
 	'longurl':'http://www.mashape.com/',
-	'apikey': 'R_70085ff324b8f0d7b3ad65f241f73e30'
+	'apikey': '<insert your Bitly apikey here.  Refer to Readme for details>'
 });
 
 // Set up the request
